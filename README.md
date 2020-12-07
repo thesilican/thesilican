@@ -8,4 +8,4 @@ I'm Bryan, a student and aspiring developer. Welcome to my GitHub profile!
 [![docker](https://img.shields.io/badge/npm-CC0000.svg?&style=for-the-badge&logo=npm&logoColor=CC0000)](https://www.npmjs.com/~thesilican)
 [![docker](https://img.shields.io/badge/Docker-0db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/thesilican)
 
-![thesilican's github stats](https://github-readme-stats.vercel.app/api?username=thesilican&show_icons=true)
+![thesilican's github stats](https://github-readme-stats.vercel.app/api?username=thesilican&theme=dark&show_icons=true)
