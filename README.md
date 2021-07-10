@@ -1,6 +1,6 @@
 ## About me
 
-Waterloo Computer Science Undergrad 🇨🇦
+Waterloo Computer Science (Co-op) Undergrad 🇨🇦
 
 ## Stuff that I know / worked with
 ![javascript](https://img.shields.io/badge/-JavaScript-20232a?style=for-the-badge&logo=javascript&logoColor=f7e018)
@@ -65,3 +65,4 @@ fn main() {
 ```
 
 ## A word from today's sponsor
+[![Stack Overflow Key Ad](https://i.imgur.com/YkiRIkp.gif)](https://bit.ly/thesilican-stack-overflow-keyboard-ad)
