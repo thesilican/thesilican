@@ -21,48 +21,5 @@ Waterloo Computer Science (Co-op) Undergrad 🇨🇦
 ![bootstrap](https://img.shields.io/badge/-Bootstrap-20232a?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
 ![sass](https://img.shields.io/badge/-Sass-20232a?style=for-the-badge&logo=sass&logoColor=CC6699)
 
-## Cool Poem
-```rust
-trait Red {
-    fn is_red() -> bool {
-        true
-    }
-}
-trait Blue {
-    fn is_blue() -> bool {
-        true
-    }
-}
-trait Win {
-    fn is_win() -> bool {
-        true
-    }
-}
-trait You {
-    fn is_you() -> bool {
-        true
-    }
-}
-
-struct Rose;
-impl Red for Rose {}
-
-struct Violet;
-impl Blue for Violet {}
-
-struct Flag;
-impl Win for Flag {}
-
-struct Baba;
-impl You for Baba {}
-
-fn main() {
-    assert!(Rose::is_red());
-    assert!(Violet::is_blue());
-    assert!(Flag::is_win());
-    assert!(Baba::is_you());
-}
-```
-
 ## A word from today's sponsor
 [![Stack Overflow Key Ad](https://i.imgur.com/YkiRIkp.gif)](https://bit.ly/thesilican-stack-overflow-keyboard-ad)
