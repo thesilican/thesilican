@@ -1,6 +1,6 @@
-## About me
+<!-- ## About me
 
-Waterloo Computer Science (Co-op) Undergrad 🇨🇦
+My name is Bryan, I'm an undergrad student at Waterloo for Computer Science (Co-op) 🇨🇦
 
 ## Stuff that I know / worked with
 ![javascript](https://img.shields.io/badge/-JavaScript-20232a?style=for-the-badge&logo=javascript&logoColor=f7e018)
@@ -20,6 +20,6 @@ Waterloo Computer Science (Co-op) Undergrad 🇨🇦
 ![css](https://img.shields.io/badge/-CSS-20232a?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![bootstrap](https://img.shields.io/badge/-Bootstrap-20232a?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
 ![sass](https://img.shields.io/badge/-Sass-20232a?style=for-the-badge&logo=sass&logoColor=CC6699)
-
+ -->
 ## A word from today's sponsor
 [![Stack Overflow Key Ad](https://i.imgur.com/YkiRIkp.gif)](https://bit.ly/thesilican-stack-overflow-keyboard-ad)
