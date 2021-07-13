@@ -15,6 +15,7 @@ Hi! My name is Bryan, I'm an undergrad student at Waterloo for Computer Science 
 ![html](https://img.shields.io/badge/-HTML-20232a?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![react](https://img.shields.io/badge/-React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![redux](https://img.shields.io/badge/-Redux-20232a?style=for-the-badge&logo=redux&logoColor=764ABC)
+![next](https://img.shields.io/badge/-Next-20232a?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
 ![svelte](https://img.shields.io/badge/-Svelte-20232a?style=for-the-badge&logo=svelte&logoColor=FF3E00)
 &nbsp;
 ![css](https://img.shields.io/badge/-CSS-20232a?style=for-the-badge&logo=css3&logoColor=1572B6)
