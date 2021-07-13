@@ -23,4 +23,4 @@ Hi! My name is Bryan, I'm an undergrad student at Waterloo for Computer Science 
 ![sass](https://img.shields.io/badge/-Sass-20232a?style=for-the-badge&logo=sass&logoColor=CC6699)
 
 ## A word from today's sponsor
-[![Stack Overflow Key Ad](https://i.imgur.com/YkiRIkp.gif)](https://bit.ly/thesilican-stack-overflow-keyboard-ad)
+[![Stack Overflow Key Ad](https://i.imgur.com/YkiRIkp.gif)](https://stackoverflow.blog/2021/03/31/the-key-copy-paste/)
