@@ -2,7 +2,7 @@
 
 Hi! My name is Bryan, I'm an undergrad student at Waterloo for Computer Science (Co-op) 🇨🇦
 
-## Stuff that I know / worked with
+## Languages/Frameworks I've worked with
 ![javascript](https://img.shields.io/badge/-JavaScript-20232a?style=for-the-badge&logo=javascript&logoColor=f7e018)
 ![typescript](https://img.shields.io/badge/-TypeScript-20232a?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![rust](https://img.shields.io/badge/-Rust-20232a?&style=for-the-badge&logo=rust&logoColor=bbbbbb)
