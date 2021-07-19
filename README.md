@@ -27,6 +27,8 @@ python, violet, rose, so = sorted(["red", "blue", "awesome", "you"])
 ## An ode to python
 
 ```python
+python, violet, rose, so = sorted(["red", "blue", "awesome", "you"])
+
 assert rose is "red" \
     and violet is "blue" \
     and python is "awesome" \
