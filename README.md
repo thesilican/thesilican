@@ -1,4 +1,4 @@
-## About me
+<!-- ## About me
 
 Hi! My name is Bryan, I'm an undergrad student at Waterloo for Computer Science (Co-op) 🇨🇦
 
@@ -24,7 +24,7 @@ Hi! My name is Bryan, I'm an undergrad student at Waterloo for Computer Science 
 
 python, violet, rose, so = sorted(["red", "blue", "awesome", "you"])
 
-## A short poem
+## A short poem -->
 
 ```python
 python, violet, rose, so = sorted(["red", "blue", "awesome", "you"])
