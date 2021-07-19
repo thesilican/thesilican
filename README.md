@@ -24,7 +24,7 @@ Hi! My name is Bryan, I'm an undergrad student at Waterloo for Computer Science 
 
 python, violet, rose, so = sorted(["red", "blue", "awesome", "you"])
 
-## An ode to python
+## A short poem
 
 ```python
 python, violet, rose, so = sorted(["red", "blue", "awesome", "you"])
