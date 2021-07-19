@@ -22,5 +22,16 @@ Hi! My name is Bryan, I'm an undergrad student at Waterloo for Computer Science 
 ![bootstrap](https://img.shields.io/badge/-Bootstrap-20232a?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
 ![sass](https://img.shields.io/badge/-Sass-20232a?style=for-the-badge&logo=sass&logoColor=CC6699)
 
-## A word from today's sponsor
-[![Stack Overflow Key Ad](https://i.imgur.com/Sv2mT5q.gif)](https://stackoverflow.blog/2021/03/31/the-key-copy-paste/)
+python, violet, rose, so = sorted(["red", "blue", "awesome", "you"])
+
+## An ode to python
+
+```python
+assert rose is "red" \
+    and violet is "blue" \
+    and python is "awesome" \
+    and so is "you"
+```
+
+<!-- ## A word from today's sponsor
+[![Stack Overflow Key Ad](https://i.imgur.com/Sv2mT5q.gif)](https://stackoverflow.blog/2021/03/31/the-key-copy-paste/) -->
