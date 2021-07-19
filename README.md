@@ -32,7 +32,7 @@ python, violet, rose, so = sorted(["you", "blue", "red", "awesome"])
 assert rose is "red" \
     and violet is "blue" \
     and python is "awesome" \
-    and so is "you"
+    and so is "you" # <3
 ```
 
 <!-- ## A word from today's sponsor
