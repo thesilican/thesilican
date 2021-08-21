@@ -24,7 +24,7 @@ Hi! My name is Bryan, I'm an undergrad student at Waterloo for Computer Science 
 
 python, violet, rose, so = sorted(["red", "blue", "awesome", "you"])
 
-## A short poem -->
+## A short poem
 
 ```python
 python, violet, rose, so = sorted(["you", "blue", "red", "awesome"])
@@ -33,6 +33,44 @@ assert rose is "red" \
     and violet is "blue" \
     and python is "awesome" \
     and so is "you" # <3
+``` -->
+
+<!-- Rust version of: https://puzzling.stackexchange.com/questions/32908/lock-your-computer-when-you-walk-away -->
+
+```rust
+use rand::random;
+use std::mem::drop as desert;
+
+#[derive(Debug, Clone, Copy)]
+enum Dir {
+    Up,
+    Down,
+    Left,
+    Right
+}
+
+const DIRS: [Dir; 4] = [Dir::Up, Dir::Down, Dir::Left, Dir::Right];
+
+fn main() {
+    let you = loop {
+        let i = random::<usize>() % 4;
+        let dir = DIRS[i];
+        if let Dir::Up = dir {
+            continue;
+        }
+        break dir;
+    };
+    println!("You've been given: {:?}", you);
+
+    // let you = Dir::Down;
+
+    return;
+    around(you);
+}
+
+fn around(dir: Dir) {
+    desert(dir);
+}
 ```
 
 <!-- ## A word from today's sponsor
