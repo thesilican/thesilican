@@ -16,7 +16,7 @@ const DIRS: [Dir; 4] = [Dir::Up, Dir::Down, Dir::Left, Dir::Right];
 
 fn main() {
     let you = loop {
-        let i: usize = random() % 4;
+        let i = random::<usize>() % 4;
         let dir = DIRS[i];
         if let Dir::Up = dir {
             continue;
