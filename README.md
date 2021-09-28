@@ -36,7 +36,7 @@ fn around(dir: Dir) {
 ```
 (Adapted from [this post](https://puzzling.stackexchange.com/questions/32908/lock-your-computer-when-you-walk-away))
 -->
-
+<!--
 ```javascript
 let up = new Error();
 throw up;
@@ -46,6 +46,7 @@ throw up;
 def you():
     raise "me up"
 ```
+-->
 
 ```rust
 fn main() {
