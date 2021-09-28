@@ -1,3 +1,4 @@
+<!--
 ```rust
 use rand::random;
 use std::mem::drop as desert;
@@ -34,3 +35,9 @@ fn around(dir: Dir) {
 }
 ```
 (Adapted from [this post](https://puzzling.stackexchange.com/questions/32908/lock-your-computer-when-you-walk-away))
+-->
+```rust
+fn main() {
+    panic!("at the disco");
+}
+```
