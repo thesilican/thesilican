@@ -55,4 +55,6 @@ fn main() {
 ```
 -->
 
-![Meme](https://i.imgur.com/3WS6TNh.png)
+<p align="center">
+<img src="https://i.imgur.com/3WS6TNh.png" alt="funny meme" />
+</p>
