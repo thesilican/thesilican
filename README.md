@@ -55,6 +55,12 @@ fn main() {
 ```
 -->
 
+<!--
 <p align="center">
 <img src="https://i.imgur.com/3WS6TNh.png" alt="funny meme" width="250" />
+</p>
+-->
+
+<p align="center">
+    <img src="https://i.imgur.com/9Xc8o6E.jpg" alt="geese" width="400"/>
 </p>
